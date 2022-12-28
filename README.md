@@ -9,6 +9,7 @@
 - I'll be trying to publish my learning progress as much as I can
 - 🔭 I’m currently working on [InstagramClone](https://github.com/cemtelliagaoglu/InstagramClone), [FiO](https://github.com/cemtelliagaoglu/FiO)
 - 🌱 I’m currently practicing UIKit, Data Structures and Algorithms
+- ⚡🔦 I’m currently learning MVVM, Programmatically Layout
 
 
 <h3 align="left">Languages and Tools:</h3>
