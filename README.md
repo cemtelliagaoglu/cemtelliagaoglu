@@ -7,9 +7,8 @@
 ### 🥷🏻 My name is Cem, I'm a Junior iOS Developer who is trying to improve his skills.
 
 - I'll be trying to publish my learning progress as much as I can
-- 🔭 I’m currently working on [InstagramClone](https://github.com/cemtelliagaoglu/InstagramClone), [FiO](https://github.com/cemtelliagaoglu/FiO)
-- 🌱 I’m currently practicing UIKit, Data Structures and Algorithms
-- ⚡ I’m currently learning Programmatically Layout, MVVM
+- 🌱 I’m currently practicing UIKit, Programmatically Auto Layout
+- ⚡ I’m currently learning VIPER, Clean Swift
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,6 +31,7 @@
 
 Here are some ideas to get you started:
 
+- 🔭 I’m currently working on [InstagramClone](https://github.com/cemtelliagaoglu/InstagramClone)
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
